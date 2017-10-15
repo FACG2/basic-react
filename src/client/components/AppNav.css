@@ -5,4 +5,9 @@
   left: 0;
   width: 250px;
   background-color: #f5b;
+  transition: transform 0.3s;
+}
+
+.app-nav--hidden {
+  transform: translateX(-100%);
 }
