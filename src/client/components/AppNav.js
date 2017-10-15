@@ -8,7 +8,7 @@ class AppNav extends Component {
       <nav className='app-nav'>
         Sidebar
       </nav>
-    )
+    );
   }
 }
 

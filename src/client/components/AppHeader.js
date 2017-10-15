@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class AppHeader extends Component {
   render() {
-    return <header>App Header</header>
+    return <header>App Header</header>;
   }
 }
 
